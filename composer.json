@@ -1,5 +1,5 @@
 {
-    "name": "user/training",
+    "name": "bhtrembala/training",
     "require": {
         "symfony/dom-crawler": "^7.2",
         "symfony/css-selector": "^7.2",
